@@ -1,4 +1,17 @@
-*{
-    font-family: 'Ubuntu', sans-serif;
-    text-decoration: none;
+* {
+  font-family: "Ubuntu", sans-serif;
 }
+
+
+ .navbar {
+  background-image: linear-gradient(
+    to left,
+    #cfdee7,
+    #92b4f4,
+    #5e7ce2,
+    #4472ca,
+    #0a369d
+  );
+} 
+
+  
