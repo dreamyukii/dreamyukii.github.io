@@ -1,7 +1,9 @@
 * {
   font-family: "Ubuntu", sans-serif;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
 }
-
 
  .navbar {
   background-image: linear-gradient(
@@ -14,4 +16,6 @@
   );
 } 
 
-  
+.navbar-toggler-icon{
+  border: 0;
+}
