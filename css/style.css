@@ -6,14 +6,7 @@
 }
 
  .navbar {
-  background-image: linear-gradient(
-    to left,
-    #cfdee7,
-    #92b4f4,
-    #5e7ce2,
-    #4472ca,
-    #0a369d
-  );
+  background-color: #171219;
 } 
 
 .navbar-toggler-icon{
