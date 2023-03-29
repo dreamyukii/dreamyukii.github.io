@@ -1,8 +1,10 @@
+/* set width untuk navbar mobile menu */
 @media only screen and (min-width: 768px){
 .hamburger-label{
   display: none !important;
 }
 }
+
 * {
   font-family: "Ubuntu", sans-serif;
   border: 0px;
